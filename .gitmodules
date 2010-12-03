@@ -1,0 +1,3 @@
+[submodule "plugin/xgoogle"]
+	path = plugin/xgoogle
+	url = https://github.com/pkrumins/xgoogle.git
