@@ -1,5 +1,6 @@
 if has("python")
     python << EOF
+import os.path
 try:
     import xgoogle
 except ImportError:
